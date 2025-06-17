@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gaurav Jaiswal</h1>
 # 💫 About Me:
-🔭 I’m currently working on a basic React project<br>👯 I’m looking to collaborate on Functional Projects<br>🤝 I’m looking for help with chat GPT api<br>🌱 I’m currently learning React js and Mongo DB<br>
+🔭 I’m currently working on a basic React project<br>👯 I’m looking to collaborate on Functional Projects<br>🌱 I’m currently learning React js and Mongo DB<br>
 
 
 ## 🌐 Socials:
